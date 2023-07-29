@@ -1,0 +1,8 @@
+Severity
+Environment
+Title
+Steps
+Expected Result
+Actual Result
+Link
+Bug comments
